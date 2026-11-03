@@ -1,0 +1,3 @@
+/home/lhjwsl/Mysql_ConnectionPool/demo/build/CMakeFiles/mysql_demo.dir
+/home/lhjwsl/Mysql_ConnectionPool/demo/build/CMakeFiles/edit_cache.dir
+/home/lhjwsl/Mysql_ConnectionPool/demo/build/CMakeFiles/rebuild_cache.dir
